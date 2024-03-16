@@ -10,6 +10,7 @@ compatibility_flags = ["nodejs_compat"]
 # [vars]
 # MY_VARIABLE = "production_value"
 
+
 # Bind a KV Namespace. Use KV as persistent storage for small key-value pairs.
 # Docs: https://developers.cloudflare.com/workers/runtime-apis/kv
 # [[kv_namespaces]]
