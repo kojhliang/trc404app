@@ -10,7 +10,7 @@ with [`c3`](https://developers.cloudflare.com/pages/get-started/c3).
 This project create by
 
 ```bash
-npm create cloudflare@latest
+npm create cloudflare@latest 
 ```
 
 First, run the development server:
